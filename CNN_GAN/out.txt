@@ -1,0 +1,6022 @@
+
+
+
+ shape of conv1 discr (?, 19, 32)
+
+
+
+shape of output of generator (?, 19, 300)
+generator output (?, 19, 300) 
+
+
+
+
+
+, discriminator input (?, 19, 300)
+
+
+
+ shape of conv1 discr (?, 19, 32)
+
+
+
+shape of conv3 (?, 19, 64)
+shape of logits (?, 1)
+
+
+, discriminator input (?, 19, 300)
+
+
+
+ shape of conv1 discr (?, 19, 32)
+
+
+
+shape of conv3 (?, 19, 64)
+
+
+ shapeof A (11280, 14)
+\dev ids (1280, 14) (1280, 19)
+shape of a (?, 19, 300)
+
+
+
+ shape of B (11280, 19, 300)
+
+
+ epoch 0
+
+
+epoch 0
+DEV:	 GLoss: 7.566866479464806e-05,	 DLoss: -0.00037206902343314143
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+mean got with dogs dogs smoking woman smoking bc ve woman woman woman smoking swearing stuff magic bc expired
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+dogs magically fat american swearing woman woman woman smoking woman woman smoking bc woman answer no yes keep dogs
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+dogs crying so work without taught woman woman smoking smoking woman woman woman work disgusts bc matter at can
+
+
+ epoch 1
+
+
+ epoch 2
+
+
+ epoch 3
+
+
+ epoch 4
+
+
+ epoch 5
+
+
+epoch 5
+DEV:	 GLoss: 0.0035504038678482175,	 DLoss: -0.007964449096471071
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+also s stops well vs woman woman woman woman smoking smoking woman woman ve answer accurate argue bc camera
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+argue p my bc an smoking woman smoking woman smoking woman woman woman smoking answer no yes another dogs
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+shit yes this disgusts smoking magic taught woman woman woman woman woman smoking smoking disgusts bc matter official do
+
+
+ epoch 6
+
+
+ epoch 7
+
+
+ epoch 8
+
+
+ epoch 9
+
+
+ epoch 10
+
+
+epoch 10
+DEV:	 GLoss: 0.018048897571861743,	 DLoss: -0.04657773859798908
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+woman s years yes things smoking woman smoking smoking woman smoking smoking woman woman swearing information argue bc s
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+argue currently work blurred magic smoking smoking woman woman smoking smoking smoking woman smoking answer no disgusts currently do
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+hard technically this work work magic woman woman woman woman woman woman smoking woman magic nox matter people do
+
+
+ epoch 11
+
+
+ epoch 12
+
+
+ epoch 13
+
+
+ epoch 14
+
+
+ epoch 15
+
+
+epoch 15
+DEV:	 GLoss: 0.052045995742082594,	 DLoss: -0.1618386909365654
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+with s with currently woman smoking s smoking smoking smoking woman s s woman swearing information argue know s
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+we your do swearing swearing smoking woman smoking smoking woman s smoking s smoking all american disgusts currently do
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+but do so work work albus s woman s s smoking woman woman smoking another taught matter actually do
+
+
+ epoch 16
+
+
+ epoch 17
+
+
+ epoch 18
+
+
+ epoch 19
+
+
+ epoch 20
+
+
+epoch 20
+DEV:	 GLoss: 0.11445812582969665,	 DLoss: -0.41108332574367523
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> don move all the s s s s s s s s s know there argue know s
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+we <UNK> <UNK> s <UNK> your s s s s s s s s work american albus <UNK> do
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+with taught all we smoking do s s s s s s s s there taught albus actually do
+
+
+ epoch 21
+
+
+ epoch 22
+
+
+ epoch 23
+
+
+ epoch 24
+
+
+ epoch 25
+
+
+epoch 25
+DEV:	 GLoss: 0.21289524286985398,	 DLoss: -0.8492991387844085
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> s <UNK> <UNK> <UNK> s s s s s s s s s know s argue your got
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> your s s <UNK> your s s s your your your s all american secondly <UNK> your
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> correctly all all work honestly <UNK> your s s s s s s work know albus <UNK> s
+
+
+ epoch 26
+
+
+ epoch 27
+
+
+ epoch 28
+
+
+ epoch 29
+
+
+ epoch 30
+
+
+epoch 30
+DEV:	 GLoss: 0.20681100934743882,	 DLoss: -1.4054189443588256
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> your correctly your but <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> argue your got
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+got s <UNK> your <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> all american secondly <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> really your your the matter <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> know albus <UNK> <UNK>
+
+
+ epoch 31
+
+
+ epoch 32
+
+
+ epoch 33
+
+
+ epoch 34
+
+
+ epoch 35
+
+
+epoch 35
+DEV:	 GLoss: -0.2333587720990181,	 DLoss: -1.8974266648292542
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> technically know got
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> your american does <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> but your your your our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> know matter does <UNK>
+
+
+ epoch 36
+
+
+ epoch 37
+
+
+ epoch 38
+
+
+ epoch 39
+
+
+ epoch 40
+
+
+epoch 40
+DEV:	 GLoss: -1.026998096704483,	 DLoss: -2.4556388378143312
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> correctly <UNK> not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> friend your s
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> not hard does <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+for really <UNK> <UNK> your but <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> currently <UNK> <UNK>
+
+
+ epoch 41
+
+
+ epoch 42
+
+
+ epoch 43
+
+
+ epoch 44
+
+
+ epoch 45
+
+
+epoch 45
+DEV:	 GLoss: -1.605617308616638,	 DLoss: -3.645583748817444
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> friend not s
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> not <UNK> t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> p does <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+really for your <UNK> it is <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> matter <UNK> <UNK>
+
+
+ epoch 46
+
+
+ epoch 47
+
+
+ epoch 48
+
+
+ epoch 49
+
+
+ epoch 50
+
+
+epoch 50
+DEV:	 GLoss: -2.025986909866333,	 DLoss: -5.454292106628418
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> friend not s
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> for does <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+really really <UNK> <UNK> know for <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> know <UNK> <UNK>
+
+
+ epoch 51
+
+
+ epoch 52
+
+
+ epoch 53
+
+
+ epoch 54
+
+
+ epoch 55
+
+
+epoch 55
+DEV:	 GLoss: -2.332619285583496,	 DLoss: -7.813046026229858
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> they not s
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> for for <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+t t <UNK> <UNK> it our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 56
+
+
+ epoch 57
+
+
+ epoch 58
+
+
+ epoch 59
+
+
+ epoch 60
+
+
+epoch 60
+DEV:	 GLoss: -2.6434479713439942,	 DLoss: -10.704633140563965
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> the <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> for not does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> for does <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not does <UNK> <UNK> <UNK> not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 61
+
+
+ epoch 62
+
+
+ epoch 63
+
+
+ epoch 64
+
+
+ epoch 65
+
+
+epoch 65
+DEV:	 GLoss: -2.9964337587356566,	 DLoss: -14.110472869873046
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> they <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> the does <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our t <UNK> <UNK> not does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 66
+
+
+ epoch 67
+
+
+ epoch 68
+
+
+ epoch 69
+
+
+ epoch 70
+
+
+epoch 70
+DEV:	 GLoss: -3.4273072481155396,	 DLoss: -17.95723934173584
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> for <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> the does <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does <UNK> <UNK> not does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 71
+
+
+ epoch 72
+
+
+ epoch 73
+
+
+ epoch 74
+
+
+ epoch 75
+
+
+epoch 75
+DEV:	 GLoss: -4.018247580528259,	 DLoss: -22.083118629455566
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> for <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does does <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+t t <UNK> <UNK> t does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 76
+
+
+ epoch 77
+
+
+ epoch 78
+
+
+ epoch 79
+
+
+ epoch 80
+
+
+epoch 80
+DEV:	 GLoss: -4.837626123428345,	 DLoss: -26.33115634918213
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> for <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> the does <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does <UNK> <UNK> <UNK> t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 81
+
+
+ epoch 82
+
+
+ epoch 83
+
+
+ epoch 84
+
+
+ epoch 85
+
+
+epoch 85
+DEV:	 GLoss: -5.642402696609497,	 DLoss: -30.154903221130372
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> for <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> the does <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> t <UNK> <UNK> <UNK> does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 86
+
+
+ epoch 87
+
+
+ epoch 88
+
+
+ epoch 89
+
+
+ epoch 90
+
+
+epoch 90
+DEV:	 GLoss: -6.538939714431763,	 DLoss: -32.92405815124512
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> for <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> t does <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> t t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 91
+
+
+ epoch 92
+
+
+ epoch 93
+
+
+ epoch 94
+
+
+ epoch 95
+
+
+epoch 95
+DEV:	 GLoss: -8.709137725830079,	 DLoss: -34.28020401000977
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> t t <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does <UNK> <UNK> <UNK> does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 96
+
+
+ epoch 97
+
+
+ epoch 98
+
+
+ epoch 99
+
+
+ epoch 100
+
+
+epoch 100
+DEV:	 GLoss: -11.314958000183106,	 DLoss: -34.024183654785155
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> t t <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 101
+
+
+ epoch 102
+
+
+ epoch 103
+
+
+ epoch 104
+
+
+ epoch 105
+
+
+epoch 105
+DEV:	 GLoss: -14.326233768463135,	 DLoss: -32.12519416809082
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does t <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> t <UNK> <UNK> t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 106
+
+
+ epoch 107
+
+
+ epoch 108
+
+
+ epoch 109
+
+
+ epoch 110
+
+
+epoch 110
+DEV:	 GLoss: -18.104703903198242,	 DLoss: -27.678688049316406
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> t
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> t t <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+
+
+ epoch 111
+
+
+ epoch 112
+
+
+ epoch 113
+
+
+ epoch 114
+
+
+ epoch 115
+
+
+epoch 115
+DEV:	 GLoss: -22.674866676330566,	 DLoss: -21.911691093444823
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 116
+
+
+ epoch 117
+
+
+ epoch 118
+
+
+ epoch 119
+
+
+ epoch 120
+
+
+epoch 120
+DEV:	 GLoss: -26.72721996307373,	 DLoss: -16.832472610473634
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> t <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 121
+
+
+ epoch 122
+
+
+ epoch 123
+
+
+ epoch 124
+
+
+ epoch 125
+
+
+epoch 125
+DEV:	 GLoss: -29.526524353027344,	 DLoss: -12.34610652923584
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> t
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> t <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 126
+
+
+ epoch 127
+
+
+ epoch 128
+
+
+ epoch 129
+
+
+ epoch 130
+
+
+epoch 130
+DEV:	 GLoss: -31.01001033782959,	 DLoss: -8.701043844223022
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> does
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 131
+
+
+ epoch 132
+
+
+ epoch 133
+
+
+ epoch 134
+
+
+ epoch 135
+
+
+epoch 135
+DEV:	 GLoss: -31.406674766540526,	 DLoss: -6.558213758468628
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 136
+
+
+ epoch 137
+
+
+ epoch 138
+
+
+ epoch 139
+
+
+ epoch 140
+
+
+epoch 140
+DEV:	 GLoss: -29.73527603149414,	 DLoss: -5.629402112960816
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> our <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 141
+
+
+ epoch 142
+
+
+ epoch 143
+
+
+ epoch 144
+
+
+ epoch 145
+
+
+epoch 145
+DEV:	 GLoss: -26.654534149169923,	 DLoss: -5.536701250076294
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> our <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 146
+
+
+ epoch 147
+
+
+ epoch 148
+
+
+ epoch 149
+
+
+ epoch 150
+
+
+epoch 150
+DEV:	 GLoss: -23.068369674682618,	 DLoss: -5.817448425292969
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> our <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 151
+
+
+ epoch 152
+
+
+ epoch 153
+
+
+ epoch 154
+
+
+ epoch 155
+
+
+epoch 155
+DEV:	 GLoss: -19.56059150695801,	 DLoss: -6.220163488388062
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> our <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 156
+
+
+ epoch 157
+
+
+ epoch 158
+
+
+ epoch 159
+
+
+ epoch 160
+
+
+epoch 160
+DEV:	 GLoss: -16.49899673461914,	 DLoss: -6.6690410614013675
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> our <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 161
+
+
+ epoch 162
+
+
+ epoch 163
+
+
+ epoch 164
+
+
+ epoch 165
+
+
+epoch 165
+DEV:	 GLoss: -14.001168251037598,	 DLoss: -7.189506483078003
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> our <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 166
+
+
+ epoch 167
+
+
+ epoch 168
+
+
+ epoch 169
+
+
+ epoch 170
+
+
+epoch 170
+DEV:	 GLoss: -12.024304866790771,	 DLoss: -7.897827863693237
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 171
+
+
+ epoch 172
+
+
+ epoch 173
+
+
+ epoch 174
+
+
+ epoch 175
+
+
+epoch 175
+DEV:	 GLoss: -10.082569313049316,	 DLoss: -8.982139778137206
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 176
+
+
+ epoch 177
+
+
+ epoch 178
+
+
+ epoch 179
+
+
+ epoch 180
+
+
+epoch 180
+DEV:	 GLoss: -8.303485774993897,	 DLoss: -10.322189235687256
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 181
+
+
+ epoch 182
+
+
+ epoch 183
+
+
+ epoch 184
+
+
+ epoch 185
+
+
+epoch 185
+DEV:	 GLoss: -6.754301357269287,	 DLoss: -11.707038116455077
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 186
+
+
+ epoch 187
+
+
+ epoch 188
+
+
+ epoch 189
+
+
+ epoch 190
+
+
+epoch 190
+DEV:	 GLoss: -5.164150810241699,	 DLoss: -12.839605045318603
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 191
+
+
+ epoch 192
+
+
+ epoch 193
+
+
+ epoch 194
+
+
+ epoch 195
+
+
+epoch 195
+DEV:	 GLoss: -3.3079509258270265,	 DLoss: -13.774571323394776
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 196
+
+
+ epoch 197
+
+
+ epoch 198
+
+
+ epoch 199
+
+
+ epoch 200
+
+
+epoch 200
+DEV:	 GLoss: -1.3853604674339295,	 DLoss: -14.706641387939452
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 201
+
+
+ epoch 202
+
+
+ epoch 203
+
+
+ epoch 204
+
+
+ epoch 205
+
+
+epoch 205
+DEV:	 GLoss: 0.574329274892807,	 DLoss: -15.62136926651001
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 206
+
+
+ epoch 207
+
+
+ epoch 208
+
+
+ epoch 209
+
+
+ epoch 210
+
+
+epoch 210
+DEV:	 GLoss: 2.5826489686965943,	 DLoss: -16.54089641571045
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 211
+
+
+ epoch 212
+
+
+ epoch 213
+
+
+ epoch 214
+
+
+ epoch 215
+
+
+epoch 215
+DEV:	 GLoss: 4.618244075775147,	 DLoss: -17.49575662612915
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 216
+
+
+ epoch 217
+
+
+ epoch 218
+
+
+ epoch 219
+
+
+ epoch 220
+
+
+epoch 220
+DEV:	 GLoss: 6.675073575973511,	 DLoss: -18.483853340148926
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 221
+
+
+ epoch 222
+
+
+ epoch 223
+
+
+ epoch 224
+
+
+ epoch 225
+
+
+epoch 225
+DEV:	 GLoss: 8.767608165740967,	 DLoss: -19.511185264587404
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 226
+
+
+ epoch 227
+
+
+ epoch 228
+
+
+ epoch 229
+
+
+ epoch 230
+
+
+epoch 230
+DEV:	 GLoss: 10.883613395690919,	 DLoss: -20.613265609741212
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 231
+
+
+ epoch 232
+
+
+ epoch 233
+
+
+ epoch 234
+
+
+ epoch 235
+
+
+epoch 235
+DEV:	 GLoss: 12.90060977935791,	 DLoss: -21.736935424804688
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 236
+
+
+ epoch 237
+
+
+ epoch 238
+
+
+ epoch 239
+
+
+ epoch 240
+
+
+epoch 240
+DEV:	 GLoss: 14.382817459106445,	 DLoss: -22.515508270263673
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 241
+
+
+ epoch 242
+
+
+ epoch 243
+
+
+ epoch 244
+
+
+ epoch 245
+
+
+epoch 245
+DEV:	 GLoss: 14.271127128601075,	 DLoss: -21.871947479248046
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 246
+
+
+ epoch 247
+
+
+ epoch 248
+
+
+ epoch 249
+
+
+ epoch 250
+
+
+epoch 250
+DEV:	 GLoss: 11.803766918182372,	 DLoss: -19.444040489196777
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 251
+
+
+ epoch 252
+
+
+ epoch 253
+
+
+ epoch 254
+
+
+ epoch 255
+
+
+epoch 255
+DEV:	 GLoss: 8.53988094329834,	 DLoss: -16.72857275009155
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 256
+
+
+ epoch 257
+
+
+ epoch 258
+
+
+ epoch 259
+
+
+ epoch 260
+
+
+epoch 260
+DEV:	 GLoss: 4.201863145828247,	 DLoss: -13.243063068389892
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 261
+
+
+ epoch 262
+
+
+ epoch 263
+
+
+ epoch 264
+
+
+ epoch 265
+
+
+epoch 265
+DEV:	 GLoss: 3.3728833198547363,	 DLoss: -13.158852100372314
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 266
+
+
+ epoch 267
+
+
+ epoch 268
+
+
+ epoch 269
+
+
+ epoch 270
+
+
+epoch 270
+DEV:	 GLoss: 3.6611698627471925,	 DLoss: -13.948913192749023
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 271
+
+
+ epoch 272
+
+
+ epoch 273
+
+
+ epoch 274
+
+
+ epoch 275
+
+
+epoch 275
+DEV:	 GLoss: 4.072412896156311,	 DLoss: -14.705100059509277
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 276
+
+
+ epoch 277
+
+
+ epoch 278
+
+
+ epoch 279
+
+
+ epoch 280
+
+
+epoch 280
+DEV:	 GLoss: 4.5549990177154545,	 DLoss: -15.407516384124756
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 281
+
+
+ epoch 282
+
+
+ epoch 283
+
+
+ epoch 284
+
+
+ epoch 285
+
+
+epoch 285
+DEV:	 GLoss: 5.112014245986939,	 DLoss: -16.001931953430176
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 286
+
+
+ epoch 287
+
+
+ epoch 288
+
+
+ epoch 289
+
+
+ epoch 290
+
+
+epoch 290
+DEV:	 GLoss: 5.720689582824707,	 DLoss: -16.529938220977783
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 291
+
+
+ epoch 292
+
+
+ epoch 293
+
+
+ epoch 294
+
+
+ epoch 295
+
+
+epoch 295
+DEV:	 GLoss: 6.3325767993927,	 DLoss: -16.99719877243042
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 296
+
+
+ epoch 297
+
+
+ epoch 298
+
+
+ epoch 299
+
+
+ epoch 300
+
+
+epoch 300
+DEV:	 GLoss: 5.969679832458496,	 DLoss: -16.40160713195801
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 301
+
+
+ epoch 302
+
+
+ epoch 303
+
+
+ epoch 304
+
+
+ epoch 305
+
+
+epoch 305
+DEV:	 GLoss: 5.9668989181518555,	 DLoss: -16.124779510498048
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 306
+
+
+ epoch 307
+
+
+ epoch 308
+
+
+ epoch 309
+
+
+ epoch 310
+
+
+epoch 310
+DEV:	 GLoss: 6.09809103012085,	 DLoss: -16.10853500366211
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 311
+
+
+ epoch 312
+
+
+ epoch 313
+
+
+ epoch 314
+
+
+ epoch 315
+
+
+epoch 315
+DEV:	 GLoss: 6.187163925170898,	 DLoss: -16.101383113861083
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 316
+
+
+ epoch 317
+
+
+ epoch 318
+
+
+ epoch 319
+
+
+ epoch 320
+
+
+epoch 320
+DEV:	 GLoss: 6.51788101196289,	 DLoss: -16.166889667510986
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 321
+
+
+ epoch 322
+
+
+ epoch 323
+
+
+ epoch 324
+
+
+ epoch 325
+
+
+epoch 325
+DEV:	 GLoss: 6.830344820022583,	 DLoss: -16.23567247390747
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 326
+
+
+ epoch 327
+
+
+ epoch 328
+
+
+ epoch 329
+
+
+ epoch 330
+
+
+epoch 330
+DEV:	 GLoss: 7.054327297210693,	 DLoss: -16.316288661956786
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 331
+
+
+ epoch 332
+
+
+ epoch 333
+
+
+ epoch 334
+
+
+ epoch 335
+
+
+epoch 335
+DEV:	 GLoss: 7.3040119171142575,	 DLoss: -16.406199359893797
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 336
+
+
+ epoch 337
+
+
+ epoch 338
+
+
+ epoch 339
+
+
+ epoch 340
+
+
+epoch 340
+DEV:	 GLoss: 7.478546571731568,	 DLoss: -16.500047206878662
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 341
+
+
+ epoch 342
+
+
+ epoch 343
+
+
+ epoch 344
+
+
+ epoch 345
+
+
+epoch 345
+DEV:	 GLoss: 7.639594888687133,	 DLoss: -16.602318954467773
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 346
+
+
+ epoch 347
+
+
+ epoch 348
+
+
+ epoch 349
+
+
+ epoch 350
+
+
+epoch 350
+DEV:	 GLoss: 7.752098655700683,	 DLoss: -16.716513442993165
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 351
+
+
+ epoch 352
+
+
+ epoch 353
+
+
+ epoch 354
+
+
+ epoch 355
+
+
+epoch 355
+DEV:	 GLoss: 7.8545269012451175,	 DLoss: -16.84305944442749
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 356
+
+
+ epoch 357
+
+
+ epoch 358
+
+
+ epoch 359
+
+
+ epoch 360
+
+
+epoch 360
+DEV:	 GLoss: 7.927394819259644,	 DLoss: -16.982940483093262
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 361
+
+
+ epoch 362
+
+
+ epoch 363
+
+
+ epoch 364
+
+
+ epoch 365
+
+
+epoch 365
+DEV:	 GLoss: 7.980030202865601,	 DLoss: -17.133841609954835
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 366
+
+
+ epoch 367
+
+
+ epoch 368
+
+
+ epoch 369
+
+
+ epoch 370
+
+
+epoch 370
+DEV:	 GLoss: 7.997867774963379,	 DLoss: -17.29116744995117
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 371
+
+
+ epoch 372
+
+
+ epoch 373
+
+
+ epoch 374
+
+
+ epoch 375
+
+
+epoch 375
+DEV:	 GLoss: 7.9679066181182865,	 DLoss: -17.451744842529298
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 376
+
+
+ epoch 377
+
+
+ epoch 378
+
+
+ epoch 379
+
+
+ epoch 380
+
+
+epoch 380
+DEV:	 GLoss: 7.910712623596192,	 DLoss: -17.628311443328858
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 381
+
+
+ epoch 382
+
+
+ epoch 383
+
+
+ epoch 384
+
+
+ epoch 385
+
+
+epoch 385
+DEV:	 GLoss: 7.950318145751953,	 DLoss: -17.869538879394533
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 386
+
+
+ epoch 387
+
+
+ epoch 388
+
+
+ epoch 389
+
+
+ epoch 390
+
+
+epoch 390
+DEV:	 GLoss: 8.806334495544434,	 DLoss: -18.537539863586424
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 391
+
+
+ epoch 392
+
+
+ epoch 393
+
+
+ epoch 394
+
+
+ epoch 395
+
+
+epoch 395
+DEV:	 GLoss: 10.076234245300293,	 DLoss: -19.50405158996582
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 396
+
+
+ epoch 397
+
+
+ epoch 398
+
+
+ epoch 399
+
+
+ epoch 400
+
+
+epoch 400
+DEV:	 GLoss: 12.0836012840271,	 DLoss: -20.697596549987793
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 401
+
+
+ epoch 402
+
+
+ epoch 403
+
+
+ epoch 404
+
+
+ epoch 405
+
+
+epoch 405
+DEV:	 GLoss: 13.960060310363769,	 DLoss: -21.790370559692384
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 406
+
+
+ epoch 407
+
+
+ epoch 408
+
+
+ epoch 409
+
+
+ epoch 410
+
+
+epoch 410
+DEV:	 GLoss: 14.98709421157837,	 DLoss: -22.497800445556642
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 411
+
+
+ epoch 412
+
+
+ epoch 413
+
+
+ epoch 414
+
+
+ epoch 415
+
+
+epoch 415
+DEV:	 GLoss: 15.757370376586914,	 DLoss: -23.094840621948244
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 416
+
+
+ epoch 417
+
+
+ epoch 418
+
+
+ epoch 419
+
+
+ epoch 420
+
+
+epoch 420
+DEV:	 GLoss: 16.361933326721193,	 DLoss: -23.418106079101562
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 421
+
+
+ epoch 422
+
+
+ epoch 423
+
+
+ epoch 424
+
+
+ epoch 425
+
+
+epoch 425
+DEV:	 GLoss: 16.994390296936036,	 DLoss: -23.470023345947265
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 426
+
+
+ epoch 427
+
+
+ epoch 428
+
+
+ epoch 429
+
+
+ epoch 430
+
+
+epoch 430
+DEV:	 GLoss: 17.620466041564942,	 DLoss: -23.23650207519531
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 431
+
+
+ epoch 432
+
+
+ epoch 433
+
+
+ epoch 434
+
+
+ epoch 435
+
+
+epoch 435
+DEV:	 GLoss: 17.93512134552002,	 DLoss: -22.655978965759278
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 436
+
+
+ epoch 437
+
+
+ epoch 438
+
+
+ epoch 439
+
+
+ epoch 440
+
+
+epoch 440
+DEV:	 GLoss: 17.606164169311523,	 DLoss: -21.73671989440918
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 441
+
+
+ epoch 442
+
+
+ epoch 443
+
+
+ epoch 444
+
+
+ epoch 445
+
+
+epoch 445
+DEV:	 GLoss: 16.475706005096434,	 DLoss: -20.545392799377442
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> not not <UNK> not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 446
+
+
+ epoch 447
+
+
+ epoch 448
+
+
+ epoch 449
+
+
+ epoch 450
+
+
+epoch 450
+DEV:	 GLoss: 15.567734909057616,	 DLoss: -19.150826454162598
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 451
+
+
+ epoch 452
+
+
+ epoch 453
+
+
+ epoch 454
+
+
+ epoch 455
+
+
+epoch 455
+DEV:	 GLoss: 16.429195499420167,	 DLoss: -18.47136402130127
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 456
+
+
+ epoch 457
+
+
+ epoch 458
+
+
+ epoch 459
+
+
+ epoch 460
+
+
+epoch 460
+DEV:	 GLoss: 17.853314208984376,	 DLoss: -18.20573673248291
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> not <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 461
+
+
+ epoch 462
+
+
+ epoch 463
+
+
+ epoch 464
+
+
+ epoch 465
+
+
+epoch 465
+DEV:	 GLoss: 19.1023530960083,	 DLoss: -17.78557014465332
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> not <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 466
+
+
+ epoch 467
+
+
+ epoch 468
+
+
+ epoch 469
+
+
+ epoch 470
+
+
+epoch 470
+DEV:	 GLoss: 19.956345748901366,	 DLoss: -17.414287948608397
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> not <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 471
+
+
+ epoch 472
+
+
+ epoch 473
+
+
+ epoch 474
+
+
+ epoch 475
+
+
+epoch 475
+DEV:	 GLoss: 20.35330410003662,	 DLoss: -17.019684505462646
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> not not not not not <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> t <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 476
+
+
+ epoch 477
+
+
+ epoch 478
+
+
+ epoch 479
+
+
+ epoch 480
+
+
+epoch 480
+DEV:	 GLoss: 20.22813014984131,	 DLoss: -16.525156879425047
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+not t t t t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+t t t not t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> not t t t t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> t <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 481
+
+
+ epoch 482
+
+
+ epoch 483
+
+
+ epoch 484
+
+
+ epoch 485
+
+
+epoch 485
+DEV:	 GLoss: 20.262240982055665,	 DLoss: -16.02370481491089
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+t t t does t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+t t t t t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> t t t t t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> t <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 486
+
+
+ epoch 487
+
+
+ epoch 488
+
+
+ epoch 489
+
+
+ epoch 490
+
+
+epoch 490
+DEV:	 GLoss: 20.401129531860352,	 DLoss: -15.564082622528076
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> t <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 491
+
+
+ epoch 492
+
+
+ epoch 493
+
+
+ epoch 494
+
+
+ epoch 495
+
+
+epoch 495
+DEV:	 GLoss: 20.540141105651855,	 DLoss: -15.23772840499878
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 496
+
+
+ epoch 497
+
+
+ epoch 498
+
+
+ epoch 499
+
+
+ epoch 500
+
+
+epoch 500
+DEV:	 GLoss: 20.315200424194337,	 DLoss: -15.190319919586182
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 501
+
+
+ epoch 502
+
+
+ epoch 503
+
+
+ epoch 504
+
+
+ epoch 505
+
+
+epoch 505
+DEV:	 GLoss: 19.666600608825682,	 DLoss: -15.175128555297851
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> does <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 506
+
+
+ epoch 507
+
+
+ epoch 508
+
+
+ epoch 509
+
+
+ epoch 510
+
+
+epoch 510
+DEV:	 GLoss: 19.41832790374756,	 DLoss: -15.005274963378906
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 511
+
+
+ epoch 512
+
+
+ epoch 513
+
+
+ epoch 514
+
+
+ epoch 515
+
+
+epoch 515
+DEV:	 GLoss: 19.103513526916505,	 DLoss: -14.82446641921997
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 516
+
+
+ epoch 517
+
+
+ epoch 518
+
+
+ epoch 519
+
+
+ epoch 520
+
+
+epoch 520
+DEV:	 GLoss: 18.635451126098634,	 DLoss: -14.67289400100708
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does is does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 521
+
+
+ epoch 522
+
+
+ epoch 523
+
+
+ epoch 524
+
+
+ epoch 525
+
+
+epoch 525
+DEV:	 GLoss: 18.354619026184082,	 DLoss: -14.589290618896484
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> does does does does does <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 526
+
+
+ epoch 527
+
+
+ epoch 528
+
+
+ epoch 529
+
+
+ epoch 530
+
+
+epoch 530
+DEV:	 GLoss: 18.098880004882812,	 DLoss: -14.568135929107665
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+don don don don don <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+don don don don don <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> don don don don don <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 531
+
+
+ epoch 532
+
+
+ epoch 533
+
+
+ epoch 534
+
+
+ epoch 535
+
+
+epoch 535
+DEV:	 GLoss: 17.825321006774903,	 DLoss: -14.633356380462647
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+don don don don don <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+don don don don don <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> don don don don don <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 536
+
+
+ epoch 537
+
+
+ epoch 538
+
+
+ epoch 539
+
+
+ epoch 540
+
+
+epoch 540
+DEV:	 GLoss: 17.483388900756836,	 DLoss: -14.753903579711913
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+s don don don s <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+don don don don don <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> don don don don don <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 541
+
+
+ epoch 542
+
+
+ epoch 543
+
+
+ epoch 544
+
+
+ epoch 545
+
+
+epoch 545
+DEV:	 GLoss: 16.955768203735353,	 DLoss: -14.57699670791626
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+s s s s s <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+s s s s s <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> s s s s s <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 546
+
+
+ epoch 547
+
+
+ epoch 548
+
+
+ epoch 549
+
+
+ epoch 550
+
+
+epoch 550
+DEV:	 GLoss: 16.254103088378905,	 DLoss: -13.996477413177491
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 551
+
+
+ epoch 552
+
+
+ epoch 553
+
+
+ epoch 554
+
+
+ epoch 555
+
+
+epoch 555
+DEV:	 GLoss: 15.502623367309571,	 DLoss: -13.513275718688964
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 556
+
+
+ epoch 557
+
+
+ epoch 558
+
+
+ epoch 559
+
+
+ epoch 560
+
+
+epoch 560
+DEV:	 GLoss: 15.293407535552978,	 DLoss: -13.467192459106446
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 561
+
+
+ epoch 562
+
+
+ epoch 563
+
+
+ epoch 564
+
+
+ epoch 565
+
+
+epoch 565
+DEV:	 GLoss: 15.067679977416992,	 DLoss: -13.443941688537597
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 566
+
+
+ epoch 567
+
+
+ epoch 568
+
+
+ epoch 569
+
+
+ epoch 570
+
+
+epoch 570
+DEV:	 GLoss: 14.603955554962159,	 DLoss: -13.199496936798095
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 571
+
+
+ epoch 572
+
+
+ epoch 573
+
+
+ epoch 574
+
+
+ epoch 575
+
+
+epoch 575
+DEV:	 GLoss: 14.534331226348877,	 DLoss: -13.476365756988525
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 576
+
+
+ epoch 577
+
+
+ epoch 578
+
+
+ epoch 579
+
+
+ epoch 580
+
+
+epoch 580
+DEV:	 GLoss: 14.739176845550537,	 DLoss: -14.091433048248291
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 581
+
+
+ epoch 582
+
+
+ epoch 583
+
+
+ epoch 584
+
+
+ epoch 585
+
+
+epoch 585
+DEV:	 GLoss: 15.060285091400146,	 DLoss: -14.710698318481445
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 586
+
+
+ epoch 587
+
+
+ epoch 588
+
+
+ epoch 589
+
+
+ epoch 590
+
+
+epoch 590
+DEV:	 GLoss: 14.758106899261474,	 DLoss: -15.129939937591553
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 591
+
+
+ epoch 592
+
+
+ epoch 593
+
+
+ epoch 594
+
+
+ epoch 595
+
+
+epoch 595
+DEV:	 GLoss: 14.508046531677246,	 DLoss: -15.459694766998291
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 596
+
+
+ epoch 597
+
+
+ epoch 598
+
+
+ epoch 599
+
+
+ epoch 600
+
+
+epoch 600
+DEV:	 GLoss: 13.572177314758301,	 DLoss: -14.741108989715576
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> our our our <UNK> our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 601
+
+
+ epoch 602
+
+
+ epoch 603
+
+
+ epoch 604
+
+
+ epoch 605
+
+
+epoch 605
+DEV:	 GLoss: 12.483512210845948,	 DLoss: -13.572476196289063
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> our our our <UNK> our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 606
+
+
+ epoch 607
+
+
+ epoch 608
+
+
+ epoch 609
+
+
+ epoch 610
+
+
+epoch 610
+DEV:	 GLoss: 12.375563716888427,	 DLoss: -13.385992050170898
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly our t correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly correctly our correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> our correctly correctly <UNK> our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 611
+
+
+ epoch 612
+
+
+ epoch 613
+
+
+ epoch 614
+
+
+ epoch 615
+
+
+epoch 615
+DEV:	 GLoss: 12.313112735748291,	 DLoss: -13.643013000488281
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly correctly correctly correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly correctly correctly correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> correctly correctly correctly <UNK> t <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 616
+
+
+ epoch 617
+
+
+ epoch 618
+
+
+ epoch 619
+
+
+ epoch 620
+
+
+epoch 620
+DEV:	 GLoss: 12.437623214721679,	 DLoss: -14.152426528930665
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly correctly correctly correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly correctly correctly correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> correctly correctly correctly <UNK> correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 621
+
+
+ epoch 622
+
+
+ epoch 623
+
+
+ epoch 624
+
+
+ epoch 625
+
+
+epoch 625
+DEV:	 GLoss: 12.550269603729248,	 DLoss: -14.681593990325927
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly correctly correctly correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly correctly correctly correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> correctly correctly correctly <UNK> correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 626
+
+
+ epoch 627
+
+
+ epoch 628
+
+
+ epoch 629
+
+
+ epoch 630
+
+
+epoch 630
+DEV:	 GLoss: 12.430967998504638,	 DLoss: -15.012431621551514
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly correctly correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly correctly correctly correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> correctly correctly correctly <UNK> correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 631
+
+
+ epoch 632
+
+
+ epoch 633
+
+
+ epoch 634
+
+
+ epoch 635
+
+
+epoch 635
+DEV:	 GLoss: 10.888258266448975,	 DLoss: -13.930684852600098
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly correctly correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly correctly correctly correctly correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> correctly correctly <UNK> correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 636
+
+
+ epoch 637
+
+
+ epoch 638
+
+
+ epoch 639
+
+
+ epoch 640
+
+
+epoch 640
+DEV:	 GLoss: 8.413368415832519,	 DLoss: -11.71289005279541
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> correctly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 641
+
+
+ epoch 642
+
+
+ epoch 643
+
+
+ epoch 644
+
+
+ epoch 645
+
+
+epoch 645
+DEV:	 GLoss: 8.939748954772949,	 DLoss: -12.268913078308106
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 646
+
+
+ epoch 647
+
+
+ epoch 648
+
+
+ epoch 649
+
+
+ epoch 650
+
+
+epoch 650
+DEV:	 GLoss: 9.827451133728028,	 DLoss: -13.181926345825195
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 651
+
+
+ epoch 652
+
+
+ epoch 653
+
+
+ epoch 654
+
+
+ epoch 655
+
+
+epoch 655
+DEV:	 GLoss: 10.920172786712646,	 DLoss: -13.975361633300782
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 656
+
+
+ epoch 657
+
+
+ epoch 658
+
+
+ epoch 659
+
+
+ epoch 660
+
+
+epoch 660
+DEV:	 GLoss: 11.767834568023682,	 DLoss: -14.52061882019043
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> <UNK> <UNK> <UNK> up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 661
+
+
+ epoch 662
+
+
+ epoch 663
+
+
+ epoch 664
+
+
+ epoch 665
+
+
+epoch 665
+DEV:	 GLoss: 11.963910007476807,	 DLoss: -14.664418411254882
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> <UNK> up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+up up up up up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> up <UNK> <UNK> <UNK> up <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 666
+
+
+ epoch 667
+
+
+ epoch 668
+
+
+ epoch 669
+
+
+ epoch 670
+
+
+epoch 670
+DEV:	 GLoss: 12.126692390441894,	 DLoss: -14.771797847747802
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> our <UNK> <UNK> <UNK> our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 671
+
+
+ epoch 672
+
+
+ epoch 673
+
+
+ epoch 674
+
+
+ epoch 675
+
+
+epoch 675
+DEV:	 GLoss: 12.074978351593018,	 DLoss: -14.761544609069825
+softmax probabilities' shape (1280, 19, 300) <class 'numpy.ndarray'>
+
+
+
+ running inference
+type <class 'numpy.int64'> <class 'numpy.ndarray'>
+shape of B and B' (1280, 19) (1280, 19)
+A:
+we are here for you <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+we ve all been there <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+don t do more just <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+you see someone else doing more <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+our our our our our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+A:
+your submission has been automatically removed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B:
+your account does not meet our minimum karma requirement https www <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+B':
+<UNK> our our <UNK> <UNK> our <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+
+
+ epoch 676
+
+
+ epoch 677
